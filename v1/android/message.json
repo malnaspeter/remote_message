@@ -1,7 +1,7 @@
 {
 	"version" : 3,
-	"title" : "First popup",
-	"message": "This popup will show up only once.",
+	"title" : "iCell News",
+	"message": "Szerver karbantartás miatt 2017.08.24 és 2017.08.25 között hajnali 2 óra és 3 óra között szolgáltatásainkat csak minimális funkcionalitással érik majd el.",
 	"icon" : "https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
 	"valid_until" : 1493811253,
 	"valid_from" : 1793891253,
