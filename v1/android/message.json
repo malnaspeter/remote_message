@@ -1,0 +1,11 @@
+{
+	"version" : 1,
+	"title" : "First popup",
+	"message": "This popup will show up only once.",
+	"icon" : "https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
+	"valid_until" : 1493811253,
+	"valid_from" : 1793891253,
+	"info_button": "Information",
+	"info_page" : "http://www.sanyi.hu",
+	"ok_button" : "Dismiss"
+}
