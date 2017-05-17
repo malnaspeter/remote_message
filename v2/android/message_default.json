@@ -1,13 +1,13 @@
 {
-	"version" : 2,
-	"title" : "Karbantartás v2",
-	"message": "Szerver karbantartás miatt 2017.08.24 és 2017.08.25 között hajnali 2 óra és 3 óra között szolgáltatásainkat csak minimális funkcionalitással érik majd el.",
+	"version" : 3,	
+	"title" : "Maintenance",
+	"message": "Due to server maintenance, between 2 pm and 3 pm between 2 pm and 6 pm, our services will only be minimized.",
 	"icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Echo_bell.svg/2000px-Echo_bell.svg.png",
 	"valid_until" : 1493811253,
 	"valid_from" : 1793891253,
-	"info_button": "Info",
+	"info_button": "More info",
 	"info_page" : "www.icell.hu",
-	"ok_button" : "OK, tudomásul vettem",
-	"buttonTitleColor":"ffffff",
-	"popupColor":"#9C27B0"
+	"ok_button" : "Okay, I got it",
+	"buttonTitleColor":"#ffffff",
+	"popupColor":"#009688"
 }

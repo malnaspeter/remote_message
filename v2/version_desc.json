@@ -1,0 +1,33 @@
+{
+	"version" : 3,	
+					// same value with version.json
+					// if the two values different, the popup will not be displayed
+
+	"title" : "Maintenance",
+					// title
+
+	"message": "Due to server maintenance, between 2 pm and 3 pm between 2 pm and 6 pm, our services will only be minimized.",
+					// message
+
+	"icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Echo_bell.svg/2000px-Echo_bell.svg.png",
+					// logo
+
+
+	"valid_until" : 1493811253,
+					// temporary not available
+	"valid_from" : 1793891253,
+					// temporary not available
+
+// info button informations
+	"info_button": "More info",				// info button title
+	"info_page" : "www.icell.hu",		// this url will be displayed on push event
+
+
+					
+	"ok_button" : "Okay, I got it",			// ok button title
+
+	"buttonTitleColor":"#ffffff",					// buttons text color 
+
+	"popupColor":"#9C27B0"							// popup color
+
+}
