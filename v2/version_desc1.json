@@ -1,0 +1,4 @@
+{
+	"version" : 3,					// display version - include to show popup (start from 1)
+	"json_version" : 2 				// library version (android, iOS)
+}
