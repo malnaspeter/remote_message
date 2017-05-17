@@ -1,11 +1,17 @@
 {
-  "valid_until": "1493811253",
-  "info_button": "Info",
-  "info_page": "Www.icell.hu",
-  "icon": "Https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
-  "valid_from": "1793891253",
-  "ok_button": "Ok i got it",
-  "title": "Maintenance",
-  "message": "And Due to server maintenance on 2017.08.24 between 2017.08.25 between 2.00 pm to 2.00 pm our services will only be minimal with functionality",
-  "version": "5"
+	"valid_until": "1493811253",
+	"valid_from": "1793891253",
+
+	"info_button": "More",
+	"info_page": "www.icell.hu",
+	"icon": "https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
+  
+	"ok_button": "Ok i got it",
+	"title": "Maintenance",
+	"message": "And Due to server maintenance on 2017.08.24 between 2017.08.25 between 2.00 pm to 2.00 pm our services will only be minimal with functionality",
+	"version": 2,
+	
+	"buttonTitleColor":"ffffff",
+	"popupColor":"#9C27B0"
+
 }
