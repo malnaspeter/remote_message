@@ -2,12 +2,12 @@
 	"version" : 2,
 	"title" : "Karbantartás v2",
 	"message": "Szerver karbantartás miatt 2017.08.24 és 2017.08.25 között hajnali 2 óra és 3 óra között szolgáltatásainkat csak minimális funkcionalitással érik majd el.",
-	"icon" : "https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
+	"icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Echo_bell.svg/2000px-Echo_bell.svg.png",
 	"valid_until" : 1493811253,
 	"valid_from" : 1793891253,
 	"info_button": "Info",
 	"info_page" : "www.icell.hu",
 	"ok_button" : "OK, tudomásul vettem",
 	"buttonTitleColor":"ffffff",
-	"popupColor":"F44336"
+	"popupColor":"#9C27B0"
 }
