@@ -4,7 +4,7 @@
 
 	"info_button": "More",
 	"info_page": "www.icell.hu",
-	"icon": "https://icell.hu/wp-content/themes/icell/assets/img/icell_logo-02-02.png",
+	"icon": "http://2.bp.blogspot.com/-dd44XkIViFE/UJPlOEvChMI/AAAAAAAAAcc/FhgLhpKtJKo/s1600/business_briefcase.png",
   
 	"ok_button": "Ok i got it",
 	"title": "Maintenance",
@@ -12,6 +12,6 @@
 	"version": 2,
 	
 	"buttonTitleColor":"ffffff",
-	"popupColor":"#9C27B0"
+	"popupColor":"#FF9800"
 
 }
