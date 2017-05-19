@@ -7,6 +7,9 @@
 	"valid_from" : 1793891253,
 	"ok_button" : "Okay, I got it",
 	"buttonTitleColor":"#ffffff",
-	"popupColor":"#607D8B"
+	"popupColor":"#607D8B",
+
+	"info_button": "MORE INFO",
+	"info_page": "www.icell.hu"
 
 }
