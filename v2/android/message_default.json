@@ -2,7 +2,7 @@
 	"version" : 3,	
 	"title" : "Maintenance",
 	"message": "Due to server maintenance, between 2 pm and 3 pm between 2 pm and 6 pm, our services will only be minimized.",
-	"icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Echo_bell.svg/2000px-Echo_bell.svg.png",
+	"icon" : "http://icons.iconarchive.com/icons/icons8/windows-8/512/Transport-Road-Worker-icon.png",
 	"valid_until" : 1493811253,
 	"valid_from" : 1793891253,
 	"ok_button" : "Okay, I got it",
